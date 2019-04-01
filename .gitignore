@@ -1,4 +1,11 @@
+
+#ignorando arquivos po extensão
 *.doc
-*docx
+*.docx
 *.zip
+
+#ignorando diretorios (pastas) por nome
 testes/
+
+#ignorando arquivos especificos
+ignorado.txt
